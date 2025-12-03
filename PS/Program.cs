@@ -23,5 +23,6 @@ class Program
         //
 =======
 >>>>>>> 85eed1daf1fb65455a9c802998141aa333cc470c
+        Console.Write("Hello world");
     }
 }
