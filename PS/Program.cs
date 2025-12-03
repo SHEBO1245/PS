@@ -18,11 +18,10 @@ class Program
         }
         Console.Write("Hello world");
         Console.Write("Hello world");
-<<<<<<< HEAD
-        //
-        //
-=======
->>>>>>> 85eed1daf1fb65455a9c802998141aa333cc470c
         Console.Write("Hello world");
+        //
+        //
+
+        //
     }
 }
