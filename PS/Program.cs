@@ -17,5 +17,6 @@ class Program
             Console.Write(num + " ");
         }
         Console.Write("Hello world");
+        Console.Write("Hello world");
     }
 }
